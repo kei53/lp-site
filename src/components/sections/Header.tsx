@@ -41,7 +41,7 @@ export default function Header() {
             </svg>
           </div>
           <span className="font-bold text-slate-800 text-base tracking-tight">
-            スマートワーク
+            スマートワーク姫路
           </span>
         </a>
 

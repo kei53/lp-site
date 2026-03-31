@@ -10,9 +10,19 @@ const notoSansJP = Noto_Sans_JP({
 });
 
 export const metadata: Metadata = {
-  title: "業務効率化・IT転職相談 | 毎日のムダ作業、なくします",
+  title: "スマートワーク姫路 | 業務効率化・IT転職相談",
   description:
-    "Excel・RPA・業務改善で日々の手作業をもっとラクに。未経験からIT転職を目指す方の無料相談にも対応。法人の業務効率化から個人のキャリア相談まで、わかりやすくサポートします。",
+    "姫路・兵庫エリアの業務効率化・IT転職相談。Excel・RPA・VBAで手作業を自動化。未経験からIT転職を目指す方の無料相談も対応。",
+  keywords: "業務効率化, IT転職, Excel自動化, RPA, VBA, 姫路, 兵庫, 無料相談",
+  openGraph: {
+    title: "スマートワーク姫路 | 業務効率化・IT転職相談",
+    description:
+      "姫路・兵庫エリアの業務効率化・IT転職相談。Excel・RPA・VBAで手作業を自動化。",
+    url: "https://あなたのドメイン",
+    siteName: "スマートワーク姫路",
+    locale: "ja_JP",
+    type: "website",
+  },
 };
 
 export default function RootLayout({

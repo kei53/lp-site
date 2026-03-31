@@ -29,7 +29,7 @@ export default function Footer() {
                 </svg>
               </div>
               <span className="font-bold text-white text-base">
-                スマートワーク
+                スマートワーク姫路
               </span>
             </a>
             <p className="text-sm text-slate-500 leading-relaxed max-w-xs">
@@ -55,7 +55,7 @@ export default function Footer() {
 
         {/* Bottom row */}
         <div className="pt-8 flex flex-col md:flex-row items-center justify-between gap-4 text-xs text-slate-600">
-          <p>© {currentYear} スマートワーク. All rights reserved.</p>
+          <p>© {currentYear} スマートワーク姫路. All rights reserved.</p>
           <div className="flex gap-4">
             <a href="#" className="hover:text-slate-400 transition-colors">
               プライバシーポリシー
