@@ -2,6 +2,7 @@ import Header from "@/components/sections/Header";
 import Hero from "@/components/sections/Hero";
 import Problems from "@/components/sections/Problems";
 import Solutions from "@/components/sections/Solutions";
+import CaseStudies from "@/components/sections/CaseStudies";
 import Services from "@/components/sections/Services";
 import Target from "@/components/sections/Target";
 import Flow from "@/components/sections/Flow";
@@ -21,6 +22,9 @@ export default function Home() {
       </ScrollReveal>
       <ScrollReveal>
         <Solutions />
+      </ScrollReveal>
+      <ScrollReveal>
+        <CaseStudies />
       </ScrollReveal>
       <ScrollReveal>
         <Services />
